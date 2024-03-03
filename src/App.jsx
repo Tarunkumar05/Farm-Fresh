@@ -28,47 +28,47 @@ function App() {
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Ginger</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Carrot</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Peas</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Capsicum</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Garlic</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Cabbage</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Coriander</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Mint</td>
     <td>RS. 25</td>
 
   </tr>
   <tr>
-    <td>Onion</td>
+    <td>Chili</td>
     <td>RS. 25</td>
 
   </tr>
