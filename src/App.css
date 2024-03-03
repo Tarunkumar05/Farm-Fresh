@@ -1,37 +1,79 @@
 nav {
-  display: flex;
-  justify-content: space-between;
-  background-color: green;
-  height: 100px;
-
-}
-
-img{
-  height: 80px;
-  width: 200px;
+  background-color: #00a650;
+  height: 200px;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
-.search{
 
+.logo img {
+  height: 150px;
+  width: 250px;
+  margin-left: 50px;
+}
+
+.vegetable-list h2 {
   display: flex;
   align-items: center;
-  margin-right: 200px;
-
+  justify-content: center;
+  margin-left: 50px;
 }
-
-input {
-  height: 50px;
-  width: 400px;
-}
-
-button {
-  height: 57px;
-  width: 100px;
-}
-
-table{
+.card-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+  width: 100%;
+  max-width: 1800px;
   margin: auto;
-  border: 1px solid black;
-  width: 400px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+  margin-bottom: 20px;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.card .info {
+  padding: 10px;
+}
+
+.card h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.card p {
+  margin: 5px 0;
+}
+
+/* Media queries for responsiveness */
+@media screen and (max-width: 768px) {
+  /* Adjust navbar height for smaller screens */
+  nav {
+    height: 120px;
+  }
+
+  /* Adjust logo size for smaller screens */
+  .logo img {
+    height: 110px;
+    margin-left: 10px;
+  }
+
+  /* Adjust card size for smaller screens */
+  .card-container {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  }
 }
