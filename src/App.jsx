@@ -132,7 +132,7 @@
 
 import './App.css';
 
-
+function App() {
   return (
     <>
       <nav>
@@ -319,6 +319,8 @@ import './App.css';
     </>
   );
 
-
+}
 export default App;
+
+
 
