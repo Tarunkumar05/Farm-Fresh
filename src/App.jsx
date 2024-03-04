@@ -155,7 +155,7 @@ function App() {
           <img src="Images/potato.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Potato (आलू)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 12/Kg</p>
           </div>
         </div>
 
@@ -163,154 +163,154 @@ function App() {
           <img src="Images/onion.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Onion (प्याज़)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 25/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/tomato.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Tomato (टमाटर)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 25/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/radish.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Radish (मूली)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/carrot.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Carrot (गाज़र)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 15/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/cucumber.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cucumber (खीरा)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/cauliflower.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cauliflower (फूलगोभी)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 25/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/cabbage.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cabbage (पत्तागोभी)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 20/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/broccoli.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Broccoli (ब्रोक्ली)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 60/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Peas.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Peas  (मटर )</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 50/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Beetroot.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Beetroot (चुकंदर)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Capsicum.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Capsicum (शिमला मिर्च )</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 60/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Jackfruit.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Jackfruit (कटहल)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 40/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Beans.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Beans (बीन्स)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 100/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Mushroom.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Mushroom (मशरूम)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Ladyfinger.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Lady finger  (भिन्डी)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 20/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Sweet Potato.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Sweet potato (शकरकंद)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. /Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Gourd.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Gourd (लौकी)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 25/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Turnip.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Turnip (शलगम)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. /Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Brinjal.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Brinjal (बैंगन)</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Lemon.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Lemon</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 130/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Spinach.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Spinach</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 20/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Garlic.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Garlic</h3>
-            <p>Price: RS. 10</p>
+            <p>Price: RS. 110/Kg</p>
           </div>
         </div>
       </div>
