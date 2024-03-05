@@ -155,7 +155,7 @@ function App() {
           <img src="Images/potato.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Potato (आलू)</h3>
-            <p>Price: RS. 12/Kg</p>
+            <p>Price: RS. 16/Kg</p>
           </div>
         </div>
 
@@ -163,7 +163,7 @@ function App() {
           <img src="Images/onion.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Onion (प्याज़)</h3>
-            <p>Price: RS. 25/Kg</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
