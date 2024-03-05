@@ -24,17 +24,17 @@
 //           </tr>
 //           <tr>
 //             <td>Potato (आलू)</td>
-//             <td>RS. 10</td>
+//             <td>RS. 16</td>
 
 //           </tr>
 //           <tr>
 //             <td>Onion (प्याज़)</td>
-//             <td>RS. 25</td>
+//             <td>RS. 30</td>
 
 //           </tr>
 //           <tr>
 //             <td>Tomato (टमाटर)</td>
-//             <td>RS. 25</td>
+//             <td>RS. 30</td>
 
 //           </tr>
 //           <tr>
@@ -44,17 +44,17 @@
 //           </tr>
 //           <tr>
 //             <td>Carrot (गाज़र)</td>
-//             <td>RS. 25</td>
+//             <td>RS. 20</td>
 
 //           </tr>
 //           <tr>
 //             <td>Cucumber (खीरा)</td>
-//             <td>RS. 25</td>
+//             <td>RS. 40</td>
 
 //           </tr>
 //           <tr>
 //             <td>Cauliflower (फूलगोभी)</td>
-//             <td>RS. 25</td>
+//             <td>RS. 30</td>
 
 //           </tr>
 //           <tr>
@@ -64,7 +64,7 @@
 //           </tr>
 //           <tr>
 //             <td>Broccoli (ब्रोक्ली)</td>
-//             <td>RS. 25</td>
+//             <td>RS. 1000</td>
 
 //           </tr>
 //           <tr>
@@ -170,7 +170,7 @@ function App() {
           <img src="Images/tomato.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Tomato (टमाटर)</h3>
-            <p>Price: RS. 25/Kg</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -184,21 +184,21 @@ function App() {
           <img src="Images/carrot.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Carrot (गाज़र)</h3>
-            <p>Price: RS. 15/Kg</p>
+            <p>Price: RS. 20/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/cucumber.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cucumber (खीरा)</h3>
-            <p>Price: RS. 30/Kg</p>
+            <p>Price: RS. 40/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/cauliflower.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cauliflower (फूलगोभी)</h3>
-            <p>Price: RS. 25/Kg</p>
+            <p>Price: RS. 30/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -212,7 +212,7 @@ function App() {
           <img src="Images/broccoli.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Broccoli (ब्रोक्ली)</h3>
-            <p>Price: RS. 60/Kg</p>
+            <p>Price: RS. 100/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -226,14 +226,14 @@ function App() {
           <img src="Images/Beetroot.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Beetroot (चुकंदर)</h3>
-            <p>Price: RS. 30/Kg</p>
+            <p>Price: RS. 50/Kg</p>
           </div>
         </div>
         <div className="card">
           <img src="Images/Capsicum.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Capsicum (शिमला मिर्च )</h3>
-            <p>Price: RS. 60/Kg</p>
+            <p>Price: RS. 80/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -261,7 +261,7 @@ function App() {
           <img src="Images/Ladyfinger.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Lady finger  (भिन्डी)</h3>
-            <p>Price: RS. 20/Kg</p>
+            <p>Price: RS. 80/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -275,7 +275,7 @@ function App() {
           <img src="Images/Gourd.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Gourd (लौकी)</h3>
-            <p>Price: RS. 25/Kg</p>
+            <p>Price: RS.30/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -289,7 +289,7 @@ function App() {
           <img src="Images/Brinjal.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Brinjal (बैंगन)</h3>
-            <p>Price: RS. 30/Kg</p>
+            <p>Price: RS. 40/Kg</p>
           </div>
         </div>
         <div className="card">
