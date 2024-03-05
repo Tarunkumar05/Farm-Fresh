@@ -313,6 +313,104 @@ function App() {
             <p>Price: RS. 110/Kg</p>
           </div>
         </div>
+        <div className="card">
+          <img src="Images/Ginger.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Ginger</h3>
+            <p>Price: RS. 140/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Ridge Gourd.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Ridge Gourd</h3>
+            <p>Price: RS. 50/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Pumpkin.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Pumpkin</h3>
+            <p>Price: RS. 25/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Red-Yellow Capsicum.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Red-Yellow Capsicum</h3>
+            <p>Price: RS. 80/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Bitter Gourd.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Bitter Gourd</h3>
+            <p>Price: RS. 50/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Mint.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Mint</h3>
+            <p>Price: RS. 20/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Green Onion.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Green Onion</h3>
+            <p>Price: RS. 30/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Gooseberry.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Gooseberry</h3>
+            <p>Price: RS. 40/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Fenugreek.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Fenugreek</h3>
+            <p>Price: RS. 20/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Apple.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Apple</h3>
+            <p>Price: RS. 100/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Banana.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Banana</h3>
+            <p>Price: RS. 30/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Orange.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Orange</h3>
+            <p>Price: RS. 40/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Grapes.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Grapes</h3>
+            <p>Price: RS. 80/Kg</p>
+          </div>
+        </div>
+        <div className="card">
+          <img src="Images/Chikoo.jpg" alt="Vegetable" />
+          <div className="info">
+            <h3>Chikoo</h3>
+            <p>Price: RS. 80/Kg</p>
+          </div>
+        </div>
       </div>
     </section>
 
