@@ -247,7 +247,7 @@ function App() {
           <img src="Images/Beans.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Beans (बीन्स)</h3>
-            <p>Price: RS. 100/Kg</p>
+            <p>Price: RS. 110/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -268,7 +268,7 @@ function App() {
           <img src="Images/Sweet Potato.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Sweet potato (शकरकंद)</h3>
-            <p>Price: RS. /Kg</p>
+            <p>Price: RS. 80/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -296,7 +296,7 @@ function App() {
           <img src="Images/Lemon.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Lemon</h3>
-            <p>Price: RS. 130/Kg</p>
+            <p>Price: RS. 140/Kg</p>
           </div>
         </div>
         <div className="card">
@@ -310,7 +310,7 @@ function App() {
           <img src="Images/Garlic.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Ginger</h3>
-            <p>Price: RS. 140/Kg</p>
+            <p>Price: RS. 130/Kg</p>
           </div>
         </div>
         <div className="card">
