@@ -205,7 +205,7 @@ function App() {
           <img src="Images/cabbage.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cabbage (पत्तागोभी)</h3>
-            <p>Price: RS. 20/Kg</p>
+            <p>Price: RS. 25/Kg</p>
           </div>
         </div>
         <div className="card">
