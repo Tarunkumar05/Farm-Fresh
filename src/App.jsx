@@ -198,7 +198,7 @@ function App() {
           <img src="Images/cauliflower.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cauliflower (फूलगोभी)</h3>
-            <p>Price: RS. 30/Kg</p>
+            <p>Price: RS. 35/Kg</p>
           </div>
         </div>
         <div className="card">
