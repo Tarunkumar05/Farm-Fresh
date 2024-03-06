@@ -309,15 +309,15 @@ function App() {
         <div className="card">
           <img src="Images/Garlic.jpg" alt="Vegetable" />
           <div className="info">
-            <h3>Garlic</h3>
-            <p>Price: RS. 110/Kg</p>
+            <h3>Ginger</h3>
+            <p>Price: RS. 140/Kg</p>
           </div>
         </div>
         <div className="card">
-          <img src="Images/Ginger.jpg" alt="Vegetable" />
+          <img src="Images/.jpg" alt="Vegetable" />
           <div className="info">
-            <h3>Ginger</h3>
-            <p>Price: RS. 140/Kg</p>
+            <h3></h3>
+            <p>Price: RS. /Kg</p>
           </div>
         </div>
         <div className="card">
