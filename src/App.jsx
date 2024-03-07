@@ -254,7 +254,7 @@ function App() {
           <img src="Images/Mushroom.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Mushroom (मशरूम)</h3>
-            <p>Price: RS. 30/Kg</p>
+            <p>Price: RS. 30/ 200g</p>
           </div>
         </div>
         <div className="card">
