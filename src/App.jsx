@@ -1,4 +1,4 @@
-// import { useState } from 'react'
+hu// import { useState } from 'react'
 
 // import './App.css'
 
@@ -163,7 +163,7 @@ function App() {
           <img src="Images/onion.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Onion (प्याज़)</h3>
-            <p>Price: RS. 30/Kg</p>
+            <p>Price: RS. 26/Kg</p>
           </div>
         </div>
         <div className="card">
