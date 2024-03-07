@@ -313,13 +313,13 @@ function App() {
             <p>Price: RS. 130/Kg</p>
           </div>
         </div>
-        <div className="card">
-          <img src="Images/.jpg" alt="Vegetable" />
+{/*         <div className="card">
+          <img src="Images/Garlic.jpg" alt="Vegetable" />
           <div className="info">
-            <h3></h3>
+            <h3>Garlic</h3>
             <p>Price: RS. /Kg</p>
           </div>
-        </div>
+        </div> */}
         <div className="card">
           <img src="Images/Ridge Gourd.jpg" alt="Vegetable" />
           <div className="info">
