@@ -29,7 +29,7 @@
 //           </tr>
 //           <tr>
 //             <td>Onion (प्याज़)</td>
-//             <td>RS. 26</td>
+//             <td>RS. 25</td>
 
 //           </tr>
 //           <tr>
@@ -163,7 +163,7 @@ function App() {
           <img src="Images/onion.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Onion (प्याज़)</h3>
-            <p>Price: RS. 26/Kg</p>
+            <p>Price: RS. 25/Kg</p>
           </div>
         </div>
         <div className="card">
