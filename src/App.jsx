@@ -54,7 +54,7 @@
 //           </tr>
 //           <tr>
 //             <td>Cauliflower (फूलगोभी)</td>
-//             <td>RS. 30</td>
+//             <td>RS. 50</td>
 
 //           </tr>
 //           <tr>
@@ -155,7 +155,7 @@ function App() {
           <img src="Images/potato.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Potato (आलू)</h3>
-            <p>Price: RS. 16/Kg</p>
+            <p>Price: RS. 18/Kg</p>
           </div>
         </div>
 
@@ -198,7 +198,7 @@ function App() {
           <img src="Images/cauliflower.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Cauliflower (फूलगोभी)</h3>
-            <p>Price: RS. 35/Kg</p>
+            <p>Price: RS. 50/Kg</p>
           </div>
         </div>
         <div className="card">
