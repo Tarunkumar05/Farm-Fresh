@@ -184,7 +184,7 @@ function App() {
           <img src="Images/carrot.jpg" alt="Vegetable" />
           <div className="info">
             <h3>Carrot (गाज़र)</h3>
-            <p>Price: RS. 20/Kg</p>
+            <p>Price: RS. 25/Kg</p>
           </div>
         </div>
         <div className="card">
